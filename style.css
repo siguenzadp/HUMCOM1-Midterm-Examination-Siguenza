@@ -171,3 +171,27 @@ tbody {
     cursor: pointer;
     font-size: 16px;
 }
+
+.media-figure {
+    margin: 25px 0;
+    padding: 20px;
+    background: #f0f4f8;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.media-figure audio {
+    width: 100%;
+    max-width: 400px;
+}
+
+.media-figure figcaption {
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #0077b6;
+}
+
+.media-figure hover {
+    background: #e3f2fd;
+}
